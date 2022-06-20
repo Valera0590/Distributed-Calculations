@@ -1,0 +1,22 @@
+C:\Users\Валерий\source\repos\Load Dist (Client)\Load Dist (Server)\bin\Debug\Load Dist (Server).exe.config
+C:\Users\Валерий\source\repos\Load Dist (Client)\Load Dist (Server)\bin\Debug\Load Dist (Server).exe
+C:\Users\Валерий\source\repos\Load Dist (Client)\Load Dist (Server)\bin\Debug\Load Dist (Server).pdb
+C:\Users\Валерий\source\repos\Load Dist (Client)\Load Dist (Server)\obj\Debug\Load Dist (Server).csproj.AssemblyReference.cache
+C:\Users\Валерий\source\repos\Load Dist (Client)\Load Dist (Server)\obj\Debug\Load Dist (Server).csproj.SuggestedBindingRedirects.cache
+C:\Users\Валерий\source\repos\Load Dist (Client)\Load Dist (Server)\obj\Debug\Load_Dist__Server_.ServerForm.resources
+C:\Users\Валерий\source\repos\Load Dist (Client)\Load Dist (Server)\obj\Debug\Load_Dist__Server_.Properties.Resources.resources
+C:\Users\Валерий\source\repos\Load Dist (Client)\Load Dist (Server)\obj\Debug\Load Dist (Server).csproj.GenerateResource.cache
+C:\Users\Валерий\source\repos\Load Dist (Client)\Load Dist (Server)\obj\Debug\Load Dist (Server).csproj.CoreCompileInputs.cache
+C:\Users\Валерий\source\repos\Load Dist (Client)\Load Dist (Server)\obj\Debug\Load Dist (Server).exe
+C:\Users\Валерий\source\repos\Load Dist (Client)\Load Dist (Server)\obj\Debug\Load Dist (Server).pdb
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\Load Dist (Client) (echo)\Load Dist (Server)\bin\Debug\Load Dist (Server).exe.config
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\Load Dist (Client) (echo)\Load Dist (Server)\bin\Debug\Load Dist (Server).exe
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\Load Dist (Client) (echo)\Load Dist (Server)\bin\Debug\Load Dist (Server).pdb
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\Load Dist (Client) (echo)\Load Dist (Server)\obj\Debug\Load Dist (Server).csproj.AssemblyReference.cache
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\Load Dist (Client) (echo)\Load Dist (Server)\obj\Debug\Load Dist (Server).csproj.SuggestedBindingRedirects.cache
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\Load Dist (Client) (echo)\Load Dist (Server)\obj\Debug\Load_Dist__Server_.ServerForm.resources
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\Load Dist (Client) (echo)\Load Dist (Server)\obj\Debug\Load_Dist__Server_.Properties.Resources.resources
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\Load Dist (Client) (echo)\Load Dist (Server)\obj\Debug\Load Dist (Server).csproj.GenerateResource.cache
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\Load Dist (Client) (echo)\Load Dist (Server)\obj\Debug\Load Dist (Server).csproj.CoreCompileInputs.cache
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\Load Dist (Client) (echo)\Load Dist (Server)\obj\Debug\Load Dist (Server).exe
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\Load Dist (Client) (echo)\Load Dist (Server)\obj\Debug\Load Dist (Server).pdb

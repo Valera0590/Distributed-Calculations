@@ -1,0 +1,11 @@
+C:\Users\Валерий\source\repos\Load Dist (Client)\Load Dist (Client)\bin\Debug\Load Dist (Client).exe.config
+C:\Users\Валерий\source\repos\Load Dist (Client)\Load Dist (Client)\bin\Debug\Load Dist (Client).exe
+C:\Users\Валерий\source\repos\Load Dist (Client)\Load Dist (Client)\bin\Debug\Load Dist (Client).pdb
+C:\Users\Валерий\source\repos\Load Dist (Client)\Load Dist (Client)\obj\Debug\Load Dist (Client).csproj.AssemblyReference.cache
+C:\Users\Валерий\source\repos\Load Dist (Client)\Load Dist (Client)\obj\Debug\Load Dist (Client).csproj.SuggestedBindingRedirects.cache
+C:\Users\Валерий\source\repos\Load Dist (Client)\Load Dist (Client)\obj\Debug\Load_Dist__Client_.ClientForm.resources
+C:\Users\Валерий\source\repos\Load Dist (Client)\Load Dist (Client)\obj\Debug\Load_Dist__Client_.Properties.Resources.resources
+C:\Users\Валерий\source\repos\Load Dist (Client)\Load Dist (Client)\obj\Debug\Load Dist (Client).csproj.GenerateResource.cache
+C:\Users\Валерий\source\repos\Load Dist (Client)\Load Dist (Client)\obj\Debug\Load Dist (Client).csproj.CoreCompileInputs.cache
+C:\Users\Валерий\source\repos\Load Dist (Client)\Load Dist (Client)\obj\Debug\Load Dist (Client).exe
+C:\Users\Валерий\source\repos\Load Dist (Client)\Load Dist (Client)\obj\Debug\Load Dist (Client).pdb
